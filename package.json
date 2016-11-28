@@ -1,0 +1,17 @@
+{
+  "name": "vue-i18n-loader",
+  "version": "1.0.0",
+  "description": "vue loader i18n ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "loader",
+    "i18n",
+    "webapck"
+  ],
+  "author": "zdzDesigner",
+  "license": "ISC"
+}
